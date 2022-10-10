@@ -1,12 +1,12 @@
 import React from 'react'
 import './sidebar.css'
-import homeIcon from '/Users/aminnaim/Desktop/ReactProject/music-app/src/assets/home.svg'
-import playlist from '/Users/aminnaim/Desktop/ReactProject/music-app/src/assets/playlist.svg'
-import playlistGlow from '/Users/aminnaim/Desktop/ReactProject/music-app/src/assets/playlistGlow.svg'
-import radio from '/Users/aminnaim/Desktop/ReactProject/music-app/src/assets/radio.svg'
-import videos from '/Users/aminnaim/Desktop/ReactProject/music-app/src/assets/videos.svg'
-import profile from '/Users/aminnaim/Desktop/ReactProject/music-app/src/assets/profile.svg'
-import logout from '/Users/aminnaim/Desktop/ReactProject/music-app/src/assets/Logout.svg'
+import homeIcon from '../../assets/home.svg'
+import playlist from '../../assets/playlist.svg'
+import playlistGlow from '../../assets/playlistGlow.svg'
+import radio from '../../assets/radio.svg'
+import videos from '../../assets/videos.svg'
+import profile from '../../assets/profile.svg'
+import logout from '../../assets/Logout.svg'
 
 
 
