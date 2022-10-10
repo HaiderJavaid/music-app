@@ -1,5 +1,23 @@
 .searchbar {
-    width: 100vw;
-    height: 50px;
-    border: solid black 2px;
+    position: absolute;
+width: 1122px;
+height: 73px;
+left: 96px;
+top: 0px;
+display: flex;
+background: #1D2123;
+padding: 20px;
+}
+
+.search-input {
+    background: #1D2123;
+}
+
+.search-icon {
+    margin: 10px 20px 0 50px;
+    height: 20px;
+}
+
+.logo {
+    padding: 30px 25px 25px 30px;
 }

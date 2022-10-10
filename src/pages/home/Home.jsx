@@ -13,10 +13,10 @@ const home = () => {
     <div>
       <Searchbar/>
       <Sidebar/>
-    <div className='maincard-display'>
-      <MainCard/>
-      <TopChart/>
-    </div>
+      <div className='maincard-display'>
+        <MainCard/>
+        <TopChart/>
+      </div>
       <NewRelease/>
       <MusicControl/>
     </div>
