@@ -11,8 +11,7 @@ import './home.css'
 const home = () => {
   return (
     <div>
-      <Searchbar/>
-      <Sidebar/>
+    
       <div className='maincard-display'>
         <MainCard/>
         <TopChart/>

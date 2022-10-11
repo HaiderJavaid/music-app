@@ -3,6 +3,8 @@ import './searchbar.css'
 import logo from '../../assets/logo.svg'
 import search from '../../assets/search.svg'
 
+import {Form} from 'react-bootstrap'
+
 const Searchbar = () => {
   return (
     <div>
@@ -11,8 +13,7 @@ const Searchbar = () => {
     <img  src={search} className='search-icon'/>
 
 
-
-    <input className='search-input' type="text" placeholder='search artist' />
+    <input className='input' placeholder='Search artists'></input>
 
     </div>
 
