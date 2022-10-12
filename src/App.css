@@ -1,3 +1,9 @@
 * {
     font-family: 'Quicksand', sans-serif;
 }
+
+.main {
+    background: #1D2123;
+    color: white;
+    height: 100vh;
+}

@@ -37,7 +37,7 @@ height: 63px;
 
 .elements {
     background-color: #1A1E1F;
-    
+    width: 170px;
     display: flex;
     flex-direction: column;
     margin-left: 17px;

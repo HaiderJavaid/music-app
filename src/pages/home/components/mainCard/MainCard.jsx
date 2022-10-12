@@ -5,8 +5,6 @@ import './mainCard.css'
 const MainCard = () => {
   return (
     <div className='maincard'>
-      
-      
       <div className="maincard-bg ">
       <div className="vector">
         <div className="leftside">
