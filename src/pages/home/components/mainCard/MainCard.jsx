@@ -8,7 +8,7 @@ const MainCard = () => {
       <div className="maincard-bg ">
       <div className="vector">
         <div className="leftside">
-          <p classname='text-yellow-500'>Currated Playlist</p>
+          <p className='text-yellow-500'>Currated Playlist</p>
           <div className="details ">
             <h3 className='title'>R & B Hits</h3>
             <p className='content'>
